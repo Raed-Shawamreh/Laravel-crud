@@ -1,0 +1,13 @@
+body{
+    background-color: #e4e2e2;
+    margin: 0;
+    padding: 0;
+}
+.thead-color th {
+    color: #DC3545;
+    
+}
+.fade-out {
+    transition: opacity 1s ease-out;
+    opacity: 0;
+    }
